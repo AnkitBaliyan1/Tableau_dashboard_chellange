@@ -49,4 +49,4 @@ Conclusion
 This project stands as a testament to the leveraging power of data in driving business decisions. Through a detailed and interactive dashboard, it brings data-driven insights to the fingertips of business leaders and stakeholders, promoting informed decision-making and fostering business growth.
 
 
-GitHub: https://public.tableau.com/app/profile/ankit.baliyan/viz/RetailCustomerSalesDashboard/RetailCustomerSalesDashboard?publish=yes
+Tableau Public: https://public.tableau.com/app/profile/ankit.baliyan/viz/RetailCustomerSalesDashboard/RetailCustomerSalesDashboard?publish=yes
