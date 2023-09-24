@@ -1,5 +1,7 @@
 # Dashboard 3: Healthcare
 
+![Healthcare Dashboard](Healthcare_dashboard_v1.png)
+
 KPI Metrics: Patient Satisfaction, Average Wait Time, Readmission Rate, Telehealth Utilization
 Charts: Monthly Admissions, Patient Age Distribution, Readmission and Telehealth Rate, Monthly Telehealth Calls
 
