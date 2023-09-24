@@ -1,6 +1,6 @@
 # Dashboard 2: E-commerce
 
-![E-Commerce/Retail Dashboard](Retail_dashboard_v1.png)
+![E-Commerce/Retail Dashboard](ecommerce_dashboard_v1.png)
 
 **Project Problem Statement:**
 
