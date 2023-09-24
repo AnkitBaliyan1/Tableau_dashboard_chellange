@@ -21,10 +21,10 @@ In the dynamic world of retail, having real-time insights into business metrics 
 
 The dataset used in this project is synthetically generated and contains over 1000 rows of monthly data from January 2020 to December 2022. It encompasses various KPI metrics such as:
 
-    Monthly Sales
-    Average Transaction Value
-    Customer Retention Rate
-    New Customers Acquired
+  Monthly Sales
+  Average Transaction Value
+  Customer Retention Rate
+  New Customers Acquired
 Moreover, it provides a breakdown of sales across different product categories and customer demographics, offering a granular view of the business dynamics.
 
 ## Results
@@ -38,7 +38,7 @@ The dashboard is designed to be user-friendly, facilitating easy interpretation 
 
 ## Technologies Used
 
-Tableau: For creating interactive and dynamic visualizations.
+Tableau Public: For creating interactive and dynamic visualizations. 
 
 ## Future Scope
 
@@ -50,4 +50,4 @@ Conclusion
 This project stands as a testament to the leveraging power of data in driving business decisions. Through a detailed and interactive dashboard, it brings data-driven insights to the fingertips of business leaders and stakeholders, promoting informed decision-making and fostering business growth.
 
 
-Tableau: https://public.tableau.com/app/profile/ankit.baliyan/viz/RetailCustomerSalesDashboard/RetailCustomerSalesDashboard?publish=yes
+Tableau Public: https://public.tableau.com/app/profile/ankit.baliyan/viz/RetailCustomerSalesDashboard/RetailCustomerSalesDashboard?publish=yes
